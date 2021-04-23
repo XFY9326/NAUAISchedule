@@ -7,10 +7,10 @@
     "systemName": "教务信息管理系统-JS",
     "jsType": "AiSchedule",
     "dependenciesJSUrls": [
-        "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/jquery-3.6.0.slim.min.js"
+        "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/jquery-3.6.0.slim.min.js"
     ],
-    "providerJSUrl": "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/scheduleHtmlProvider.js",
-    "parserJSUrl": "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/scheduleHtmlParser.js",
-    "updateUrl": "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/config.json",
+    "providerJSUrl": "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/scheduleHtmlProvider.js",
+    "parserJSUrl": "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/scheduleHtmlParser.js",
+    "updateUrl": "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/config.json",
     "sortingBasis": "NanJinShengJiDaXueJS"
 }
