@@ -1,0 +1,16 @@
+{
+    "uuid": "7eb5d52e-0701-4f9f-aad6-39c96a7cde93",
+    "config": 1,
+    "version": 1,
+    "schoolName": "南京审计大学",
+    "authorName": "XFY9326",
+    "systemName": "教务信息管理系统-JS",
+    "jsType": "AiSchedule",
+    "dependenciesJSUrls": [
+        "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/jquery-3.6.0.slim.min.js"
+    ],
+    "providerJSUrl": "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/scheduleHtmlProvider.js",
+    "parserJSUrl": "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/scheduleHtmlParser.js",
+    "updateUrl": "https://xfy9326-generic.pkg.coding.net/Schedule/nau_config/config.json",
+    "sortingBasis": "NanJinShengJiDaXueJS"
+}
