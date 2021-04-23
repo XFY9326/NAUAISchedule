@@ -6,6 +6,7 @@
     "authorName": "XFY9326",
     "systemName": "教务信息管理系统-JS",
     "jsType": "AiSchedule",
+    "initPageUrl": "http://jwc.nau.edu.cn",
     "dependenciesJSUrls": [
         "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/jquery-3.6.0.slim.min.js"
     ],
