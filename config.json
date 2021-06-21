@@ -1,12 +1,12 @@
 {
     "uuid": "7eb5d52e-0701-4f9f-aad6-39c96a7cde93",
     "config": 1,
-    "version": 2,
+    "version": 3,
     "schoolName": "南京审计大学",
     "authorName": "XFY9326",
-    "systemName": "教务信息管理系统-JS",
+    "systemName": "统一身份认证登录-JS",
     "jsType": "AiSchedule",
-    "initPageUrl": "http://jwc.nau.edu.cn",
+    "initPageUrl": "http://sso.nau.edu.cn/sso/login?service=http%3A%2F%2Fjwc.nau.edu.cn%2Flogin_single.aspx",
     "dependenciesJSUrls": [
         "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/jquery-3.6.0.slim.min.js"
     ],
