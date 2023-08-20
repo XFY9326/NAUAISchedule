@@ -8,10 +8,10 @@
     "jsType": "AiSchedule",
     "initPageUrl": "http://sso.nau.edu.cn/sso/login?service=http%3A%2F%2Fjwc.nau.edu.cn%2Flogin_single.aspx",
     "dependenciesJSUrls": [
-        "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/jquery-3.6.0.slim.min.js"
+        "https://github.com/XFY9326/NAUAISchedule/raw/master/jquery-3.6.0.slim.min.js"
     ],
-    "providerJSUrl": "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/scheduleHtmlProvider.js",
-    "parserJSUrl": "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/scheduleHtmlParser.js",
-    "updateUrl": "https://xfy9326.coding.net/p/Schedule/d/NAUJSSchedule/git/raw/master/config.json",
+    "providerJSUrl": "https://github.com/XFY9326/NAUAISchedule/raw/master/scheduleHtmlProvider.js",
+    "parserJSUrl": "https://github.com/XFY9326/NAUAISchedule/raw/master/scheduleHtmlParser.js",
+    "updateUrl": "https://github.com/XFY9326/NAUAISchedule/raw/master/config.json",
     "sortingBasis": "NanJinShengJiDaXueJS"
 }
