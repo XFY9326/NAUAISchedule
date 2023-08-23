@@ -165,9 +165,7 @@ function scheduleHtmlParser(html) {
 
             let sections = [];
             for (let k = parseInt(groups[2]); k <= parseInt(groups[3]); k++) {
-                sections.push({
-                    "section": k
-                });
+                sections.push(k);
             }
 
             CourseInfos.push({
